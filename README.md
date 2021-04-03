@@ -1,5 +1,5 @@
 # Quantum Perceptron
-Qiskit implementation of a simple quantum perceptron
+Qiskit implementation of a simple quantum perceptron. In collaboration with Ferdinando D'Apice.
 
 We followed the paper [An Artificial Neuron Implemented on an Actual Quantum Processor](https://arxiv.org/pdf/1811.02266.pdf)
 by F. Tacchino et al., with some fixes.
