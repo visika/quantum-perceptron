@@ -18,4 +18,10 @@ We suppose there's an error in the article, that's addressed here.
 Inside equation (10), O_j is defined as the tensor product from 0 to m-1.
 We think the product should go from 0 to N-1.
 
-![Inputs vs weights for N=3](inputs_v_weights_N=2.png)
+## Inputs vs weights for N=2
+
+![Inputs vs weights for N=2](inputs_v_weights_N=2.png)
+
+## Inputs vs weights for N=3
+
+![Inputs vs weights for N=3](inputs_v_weights_N=3.png)
